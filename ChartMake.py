@@ -22,8 +22,8 @@ def set_korean_font():
 set_korean_font()
 
 # 네이버 API 인증 정보 (보안상 환경변수로 관리하는 것이 좋음)
-CLIENT_ID = "1Vh7jUKindSD9TuhtG4O"
-CLIENT_SECRET = "jl83Z217Yj"
+CLIENT_ID = "****"
+CLIENT_SECRET = "****"
 
 # API 요청 URL
 API_URL = "https://openapi.naver.com/v1/datalab/shopping/categories"
