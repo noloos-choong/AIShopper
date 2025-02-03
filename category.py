@@ -3,8 +3,8 @@ import json
 import datetime
 
 # 네이버 API 인증 정보
-CLIENT_ID = "1Vh7jUKindSD9TuhtG4O"  # 네이버 개발자센터에서 발급받은 클라이언트 ID
-CLIENT_SECRET = "jl83Z217Yj"  # 네이버 개발자센터에서 발급받은 클라이언트 Secret
+CLIENT_ID = "****"  # 네이버 개발자센터에서 발급받은 클라이언트 ID
+CLIENT_SECRET = "****"  # 네이버 개발자센터에서 발급받은 클라이언트 Secret
 
 
 #50000001 - 패션 잡화
